@@ -36,7 +36,8 @@ Cada repositório/projeto possui um responsável de segurança ("Security Champi
 - **Substituto:** [carla.Schneider@exemplo.com.br](mailto:carla.Schneider@exemplo.com.br)
 
 
-- Em caso de dúvidas, verifique os Security Champions **[nesta lista]: (LISTA.COM.BR)**
+- Em caso de dúvidas, verifique os Security Champions **[nesta lista](https://lista.comm.br)**  
+
 ---
 
 ## 🔒 Práticas de Segurança do Projeto
